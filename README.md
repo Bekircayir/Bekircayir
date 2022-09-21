@@ -28,7 +28,7 @@ I define myself as an experienced Digital Consultant with a history of working i
 [![](https://img.shields.io/github/watchers/Bekircayir?style=social)](https://www.github.com/Bekircayir)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Bekircayir)
+
 <!--
 **Bekircayir/Bekircayir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
