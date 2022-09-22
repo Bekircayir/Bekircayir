@@ -71,6 +71,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="80" height="80"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" title="Shopify" alt="Shopify" width="80" height="80"/>&nbsp;
+  
   
   <br>
   <hr>
