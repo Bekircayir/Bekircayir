@@ -44,7 +44,7 @@
 
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Bekir_Cayir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bekir-cayir/)       [![](https://img.shields.io/youtube/channel/subscribers/UCivHpTQ1Y5ts7tjQv2-02Ew?style=social)](https://www.youtube.com/c/BekirCAYIR100bin)
-[![](https://img.shields.io/github/watchers/Bekircayir?style=social)](https://www.github.com/Bekircayir)
+[![](https://img.shields.io/github/watchers/Bekircayir?style=social)](https://www.github.com/Bekircayir)  [![instagram Badge](https://img.shields.io/badge/-Bekir_Cayir-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bekr_cayir) 
 
 
 ---
