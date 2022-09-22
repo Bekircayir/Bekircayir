@@ -18,16 +18,73 @@
 </div>
 
 
+---
 
 # Hey, I'm Bekir Cayir!  👋
 
-I am a person who reads, thinks, researches, develops himself, and that people consult about solving their problems. My eagerness to learn new tools and technologies and then to implement them increases when they are relevant to my goal. Working as a team and helping others are my mission.
-I define myself as an experienced Digital Consultant with a history of working in the IT industry and Education field. Working as a consultant Skilled in Social Media Marketing, Analytical Skills, and Web Design in the Turkish language made me stronger. To use my native language, Turkish effectively and confidently is one of my strongest sides. Nowadays I improve my English and German skills and digital sales capabilities. I’m looking forward to sharing my experiences and knowledge.
 
+
+
+ 
+
+- :telescope: I am a person who reads, thinks, researches, develops himself, and that people consult about solving their problems.
+
+- :seedling: My eagerness to learn new tools and technologies and then to implement them increases when they are relevant to my goal.  🤝 Working as a team and helping others are my mission.
+
+- :zap: I define myself as an experienced Digital Consultant with a history of working in the IT industry and Education field. Working as a consultant Skilled in Social Media Marketing, Analytical Skills, and Web Design in the Turkish language made me stronger. To use my native language, Turkish effectively and confidently is one of my strongest sides.
+
+- :zap: Nowadays I improve my English and German skills and digital sales capabilities. I’m looking forward to sharing my experiences and knowledge.
+
+
+- :mailbox:How to reach me: 
+
+:man_technologist: 
 [![](https://img.shields.io/youtube/channel/subscribers/UCivHpTQ1Y5ts7tjQv2-02Ew?style=social)](https://www.youtube.com/c/BekirCAYIR100bin)
 [![](https://img.shields.io/github/watchers/Bekircayir?style=social)](https://www.github.com/Bekircayir)
 
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python " width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="80" height="80"/>&nbsp;
+  
+  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="80" height="80"/>&nbsp;
+  
+  
+  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="80" height="80"/>&nbsp;
+
+  
+  
+  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="80" height="80"/>&nbsp;
+
+   
+  
+  
+</div>
 
 <!--
 **Bekircayir/Bekircayir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
