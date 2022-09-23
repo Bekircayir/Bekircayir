@@ -34,10 +34,10 @@
 
 - :telescope: I am a person who reads, thinks, researches, develops himself, and that people consult about solving their problems.
 
-- 🌱 **I’m currently learning Machine Learning, Deep Learning and NLP** (Natural Language Processing) at Hannover University of Applied Sciences and Arts. 
+- 🌱 **I’m currently learning Machine Learning, Deep Learning and NLP (Natural Language Processing) at Hannover University of Applied Sciences and Arts.** 
 
 - :seedling: My eagerness to learn new tools and technologies and then to implement them increases when they are relevant to my goal.  🤝 Working as a team and helping others are my mission.
-- 👯 I’m looking to collaborate on improving Data Science in Germany. 
+- 👯 I’m looking to collaborate on improving Data Science in Germany or helping immigrants. I am doing digital studies of 2 associations voluntarily.
 
 - :man_technologist: I define myself as an experienced Digital Consultant with a history of working in the IT industry and Education field. Working as a consultant Skilled in Social Media Marketing, Analytical Skills, and Web Design in the Turkish language made me stronger. To use my native language, Turkish effectively and confidently is one of my strongest sides.
 
