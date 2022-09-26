@@ -18,6 +18,10 @@
    <a href="https://www.facebook.com/bekir.cayir.562">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
+  <a href="https://bekircayir.de/en/">
+    <img src="https://img.shields.io/badge/contact_me_via_My_Blog-black?style=for-the-badge&logo=contact&logoColor=white" alt="contact Badge"/>
+  </a>
+  
   <br>
   <img src="https://komarev.com/ghpvc/?username=Bekircayir&style=flat-square&color=blue" alt=""/>
   
