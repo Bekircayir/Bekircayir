@@ -18,7 +18,7 @@
    <a href="https://www.facebook.com/bekir.cayir.562">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
-  <a href="https://bekircayir.de/en/">
+  <a href="https://bekircayir.com/en/">
     <img src="https://img.shields.io/badge/contact_me_via_My_Blog-black?style=for-the-badge&logo=contact&logoColor=white" alt="contact Badge"/>
   </a>
   
@@ -49,7 +49,7 @@
 
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Bekir_Cayir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bekir-cayir/)       [![](https://img.shields.io/youtube/channel/subscribers/UCivHpTQ1Y5ts7tjQv2-02Ew?style=social)](https://www.youtube.com/c/BekirCAYIR100bin)
-[![](https://img.shields.io/github/watchers/Bekircayir?style=social)](https://www.github.com/Bekircayir)  [![instagram Badge](https://img.shields.io/badge/-Bekir_Cayir-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bekr_cayir) [![contact Badge](https://img.shields.io/badge/-My_Blog:_BekirCayir.de-black?style=flat&logo=concact&logoColor=white)](https://bekircayir.de/en/) [![contact Badge](https://img.shields.io/badge/-My_Portfolio_site:_cv.BekirCayir.de-black?style=flat&logo=concact&logoColor=white)](http://cv.bekircayir.de) 
+[![](https://img.shields.io/github/watchers/Bekircayir?style=social)](https://www.github.com/Bekircayir)  [![instagram Badge](https://img.shields.io/badge/-Bekir_Cayir-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bekr_cayir) [![contact Badge](https://img.shields.io/badge/-My_Blog:_BekirCayir.com-black?style=flat&logo=concact&logoColor=white)](https://bekircayir.com/en/) [![contact Badge](https://img.shields.io/badge/-My_Portfolio_site:_BekirCayir.net-black?style=flat&logo=concact&logoColor=white)](https://bekircayir.net) 
 
 
 ---
