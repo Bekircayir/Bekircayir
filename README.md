@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/c/BekirCAYIR100bin">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.instagram.com/bekr_cayir">
+  <a href="https://www.instagram.com/bekircayir.de">
     <img src="https://img.shields.io/badge/instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/bekir.cayir.562">
